@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { LogComponent } from './log/log.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    LogComponent,
   ],
   imports: [
     BrowserModule
