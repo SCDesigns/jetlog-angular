@@ -1,6 +1,5 @@
-# JetLogAng
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+# JetLog ![JetLog Marker](http://jet-log.herokuapp.com/static/media/marker.cfe43bf3.svg)
+## A memory map for your travels - Log your treks across the globe with JetLog + Google Maps API.
 
 ## Development server
 
